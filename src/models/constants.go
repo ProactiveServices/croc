@@ -1,11 +1,5 @@
 package models
 
-import (
-	"context"
-	"net"
-	"time"
-)
-
 // TCP_BUFFER_SIZE is the maximum packet size
 const TCP_BUFFER_SIZE = 1024 * 64
 
